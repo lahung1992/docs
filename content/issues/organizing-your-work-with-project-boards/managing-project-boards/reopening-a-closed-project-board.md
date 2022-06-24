@@ -1,16 +1,18 @@
 ---
 title: Reopening a closed project board
-intro: You can reopen a closed project board and and restart any workflow automation that was configured for the project board.
+intro: You can reopen a closed project board and restart any workflow automation that was configured for the project board.
 redirect_from:
   - /github/managing-your-work-on-github/managing-project-boards/reopening-a-closed-project-board
   - /articles/reopening-a-closed-project-board
   - /github/managing-your-work-on-github/reopening-a-closed-project-board
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  fpt: '*'
+  ghes: '*'
+  ghae: '*'
+  ghec: '*'
 topics:
   - Pull requests
+shortTitle: Reopen project board
 ---
 {% data reusables.projects.project_boards_old %}
 
